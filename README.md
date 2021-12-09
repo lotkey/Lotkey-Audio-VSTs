@@ -1,7 +1,7 @@
 # Lotkey Audio VSTs
 Lotkey Audio homemade VSTs and VST3s
 
-### FUBAR:
+### CBAR:
 Hard-clip audio
 
 ### Wavesplitter:
